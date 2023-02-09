@@ -1,0 +1,49 @@
+.Dashboard{
+    width: 100%;
+}
+.topbar{
+    display: flex;
+    width: 100%;
+
+}
+
+.welcome-message{
+    padding: 10px;
+    height: 20px;
+    width: 150px;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: 0 2px 15px 0 rgb(0 0 0 / 9%);
+    background-color: white;
+    color: black;
+    margin-top: 30px;
+    margin-left: 30px; 
+}
+
+.center-bar{
+    display : flex;
+}
+
+.cards{
+    padding:  10px;
+    box-shadow: 0 2px 15px 0 rgb(0 0 0 / 9%);
+    background-color: white;
+    color: black;
+    margin-top: 30px;
+    margin-left: 30px; 
+    height: 100px;
+    width: 200px;
+    border-radius: 0px 30px; 
+    text-align: center;
+}
+
+/* Bar Chart */
+.Bottom-bar{
+    width: 945px;
+    border-radius: 30px;
+    box-shadow: 0 2px 15px 0 rgb(0 0 0 / 9%);
+    padding: 21px ;
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 30px;
+}

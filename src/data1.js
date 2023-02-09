@@ -1,0 +1,62 @@
+const pdata = [
+    {
+      name: 'Py',
+      currentStudent: 130,
+      targetStudent:  300,
+      intermediateTarget: 150,
+      fees: 100,
+      CurrentCountBatchs: 7,
+      targetCountBatchs : 15,
+
+    },
+    {
+      name: 'Js',
+      currentStudent: 150,
+      targetStudent:  500,
+      intermediateTarget: 250,
+      fees: 120,
+      CurrentCountBatchs: 8,
+      targetCountBatchs : 25,
+    },
+    {
+      name: 'PHP',
+      currentStudent: 50,
+      targetStudent:  150,
+      intermediateTarget: 75,
+      fees: 100,
+      CurrentCountBatchs: 3,
+      targetCountBatchs : 7,
+    },
+    {
+      name: 'Java',
+      student: 100,
+      currentStudent: 100,
+      targetStudent:  600,
+      intermediateTarget: 300,
+      fees: 50,
+      CurrentCountBatchs: 10,
+      targetCountBatchs : 30,
+    },
+    {
+      name: 'C#',
+      student: 90,
+      currentStudent: 90,
+      targetStudent:  150,
+      intermediateTarget: 75,
+      fees: 60,
+      CurrentCountBatchs: 5,
+      targetCountBatchs : 8,
+    },
+    {
+      name: 'C++',
+      student: 200,
+      currentStudent: 200,
+      targetStudent:  600,
+      intermediateTarget: 300,
+      fees: 80,
+      CurrentCountBatchs: 10,
+      targetCountBatchs : 30,
+    },
+  ];
+
+  export default pdata;
